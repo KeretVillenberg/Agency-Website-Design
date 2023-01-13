@@ -151,6 +151,9 @@ a {
 .y-c {
     align-items: center;
 }
+.m2 {
+    padding: 4em 0 2em;
+}
 .btn {
     padding: 16px 32px;
     color: #333;
@@ -162,6 +165,10 @@ a {
     font-weight: 500;
     line-height: 41px;
     margin-right: 1em;
+}
+.btn-outline {
+    border: 2px solid rgb(22, 22, 22);
+    font-weight: 500;
 }
 .btn-play {
     align-items: center;
@@ -183,6 +190,9 @@ a {
 
 nav a {
     margin: 0 1em;
+}
+.hero {
+    background: linear-gradient(90deg, #00c9ff30 0%, #92fe9d75 100%);
 }
 
 .hero-copy {
